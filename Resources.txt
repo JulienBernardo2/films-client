@@ -1,0 +1,9 @@
+Everything for the modal and alerts (alertify), i had 
+learned that last semester in ecommerce and system dev for my final project.
+
+Links used for creating validations labels:
+https://www.w3schools.com/jsref/prop_node_parentnode.asp
+https://www.w3schools.com/jsref/met_node_removechild.asp
+
+Link for adding an event listener:
+https://www.w3schools.com/jsref/met_element_addeventlistener.asp
